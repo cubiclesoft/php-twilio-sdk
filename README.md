@@ -9,7 +9,7 @@ Features
 --------
 
 * Does what it says on the tin in a mere 7KB of code.
-* Works with [SignalWire](https://signalwire.com/).
+* Works with [Twilio](https://www.twilio.com/) and [SignalWire](https://signalwire.com/).
 * Has a liberal open source license.  MIT or LGPL, your choice.
 * Designed for relatively painless integration into your project.
 * Sits on GitHub for all of that pull request and issue tracker goodness to easily submit changes and ideas respectively.
