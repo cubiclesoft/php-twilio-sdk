@@ -115,7 +115,7 @@
 
 			if ($void)  echo " /";
 
-			echo ">\n";
+			echo ">";
 		}
 
 		public static function AppendXMLData($str)
