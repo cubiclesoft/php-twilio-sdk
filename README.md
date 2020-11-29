@@ -3,7 +3,7 @@ Twilio SDK for PHP
 
 An ultra-lightweight PHP SDK for accessing Twilio APIs and emitting valid TwiML verbs in response to webhook calls.  Also works with [SignalWire](https://signalwire.com/).
 
-[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/)
+[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/) [![Discord](https://img.shields.io/discord/777282089980526602?label=chat&logo=discord)](https://cubiclesoft.com/product-support/github/)
 
 Features
 --------
